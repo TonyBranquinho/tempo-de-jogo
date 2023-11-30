@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\bin\Debug\Tempo de jogo.exe.config
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\bin\Debug\Tempo de jogo.exe
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\bin\Debug\Tempo de jogo.pdb
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\obj\Debug\Tempo de jogo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\obj\Debug\Tempo de jogo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\obj\Debug\Tempo de jogo.exe
+C:\temp\ws-vs2019\Tempo de jogo\Tempo de jogo\obj\Debug\Tempo de jogo.pdb
